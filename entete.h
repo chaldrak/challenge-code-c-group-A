@@ -1,0 +1,21 @@
+int asciiValue (char);
+int isAlnum (char);
+int isAlpha (char);
+int isCtrl (char*);
+int isDigit (char);
+int isLower (char);
+int isPonc (char);
+int isPonc (char);
+int isSpace (char);
+int isUpper (char);
+int isXdigit (char);
+char toLower (char);
+char toUpper (char);
+int abs (int);
+float power (float, int);
+int flooR (float);
+int length (int*);
+void qsort (int*, int);
+void printTab(int*, int);
+char* strCat(char*, char*);
+
